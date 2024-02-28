@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainApp", "TrainApp\TrainApp.csproj", "{75BC7182-E6EF-4A9F-A708-4DC87F718BCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{6C58E706-8425-42B1-AA5A-5323A468CA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainAppService", "TrainAppService\TrainAppService.csproj", "{22A9F76F-0B5A-4F46-8744-3314A7912995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BC7182-E6EF-4A9F-A708-4DC87F718BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BC7182-E6EF-4A9F-A708-4DC87F718BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BC7182-E6EF-4A9F-A708-4DC87F718BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BC7182-E6EF-4A9F-A708-4DC87F718BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C58E706-8425-42B1-AA5A-5323A468CA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C58E706-8425-42B1-AA5A-5323A468CA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C58E706-8425-42B1-AA5A-5323A468CA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C58E706-8425-42B1-AA5A-5323A468CA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A9F76F-0B5A-4F46-8744-3314A7912995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A9F76F-0B5A-4F46-8744-3314A7912995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A9F76F-0B5A-4F46-8744-3314A7912995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A9F76F-0B5A-4F46-8744-3314A7912995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1ACA83F-100B-40C7-BA20-696CB7376B88}
+	EndGlobalSection
+EndGlobal
